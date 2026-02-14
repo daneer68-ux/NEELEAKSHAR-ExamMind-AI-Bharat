@@ -1,10 +1,13 @@
-## Innovation tools Layer
+## New Modules Added
 
-- Memory Prediction Model → gives cheat(smart)codes to remember 1day-exam
-   preparation.Uses spaced repetition + forgetting curve
-- presetation tool:used to present exam+big topics best presentation.
-- imagination- topic yourgiven gives real world daily examples.
-- Exam Intelligence Engine → Predicts high-probability exam questions
-- Weak Topic Analyzer → Tracks performance & identifies weak areas
-- Score Predictor → Estimates exam score from preparation level
-- Multilingual AI → Supports regional language learning for Bharat
+- Cheat Notes Generator
+- Smart Code Generator Engine
+- Video Trimmer & Lecture Analyzer
+- Presentation Formatter Engine
+- Gamification & Reward Engine
+- Skill Tutorial Engine
+- Book Reward / Premium Unlock System
+
+## Reward Logic
+User Activity → EARN POINTS(gains through learning) → Unlock AI Features / Premium / BOOKS EXACHANGE REWARDS.
+
